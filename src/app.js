@@ -12,9 +12,9 @@ app.use(morgan("dev"));
 app.use(express.json());
 app.use(helmet());
 app.use(helmet.hidePoweredBy());
-app.use(csurf());
 app.use(express.urlencoded({ extended: true }));
 app.use("/api", routes);
+app.use(csurf());
 
 app.listen(ServerConfig.PORT, () => {
     console.log(`Server iniciado en el puerto: ${ServerConfig.PORT}`)
