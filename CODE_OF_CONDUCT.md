@@ -33,7 +33,7 @@ Este Código de Conducta aplica en los espacios del proyecto como en espacios p�
 
 ## Aplicación
 
-Instancias de comportamiento abusivo, acosador, o de otra manera inaceptable pueden ser reportadas contactando al equipo del proyecto a [TU DIRECCIÓN DE CORREO]. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad respecto al reportante de un incidente. Más detalles de políticas específicas de aplicación pueden ser publicados por separado.
+Instancias de comportamiento abusivo, acosador, o de otra manera inaceptable pueden ser reportadas contactando al equipo del proyecto a <andres@sivar.solutions>. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad respecto al reportante de un incidente. Más detalles de políticas específicas de aplicación pueden ser publicados por separado.
 
 Los mantenedores del proyecto que no sigan o no hagan cumplir el Código de Conducta de buena fe pueden enfrentar repercusiones temporales o permanentes determinadas por otros miembros de la dirección del proyecto.
 
